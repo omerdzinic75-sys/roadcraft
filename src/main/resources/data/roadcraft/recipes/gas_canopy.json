@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "I I"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone_slab"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "roadcraft:gas_canopy",
+    "count": 2
+  }
+}

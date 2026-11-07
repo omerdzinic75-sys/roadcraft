@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "roadcraft:asphalt"
+    },
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "result": {
+    "item": "roadcraft:road_crosswalk",
+    "count": 1
+  }
+}

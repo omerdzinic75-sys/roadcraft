@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "roadcraft:asphalt"
+    }
+  },
+  "result": {
+    "item": "roadcraft:asphalt_slab",
+    "count": 6
+  }
+}

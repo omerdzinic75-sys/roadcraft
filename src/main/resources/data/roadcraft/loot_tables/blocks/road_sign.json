@@ -1,0 +1,93 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "roadcraft:road_sign",
+          "functions": [
+            {
+              "function": "minecraft:copy_nbt",
+              "source": "block_entity",
+              "ops": [
+                {
+                  "source": "t0",
+                  "target": "BlockEntityTag.t0",
+                  "op": "replace"
+                },
+                {
+                  "source": "t1",
+                  "target": "BlockEntityTag.t1",
+                  "op": "replace"
+                },
+                {
+                  "source": "t2",
+                  "target": "BlockEntityTag.t2",
+                  "op": "replace"
+                },
+                {
+                  "source": "t3",
+                  "target": "BlockEntityTag.t3",
+                  "op": "replace"
+                },
+                {
+                  "source": "a0",
+                  "target": "BlockEntityTag.a0",
+                  "op": "replace"
+                },
+                {
+                  "source": "a1",
+                  "target": "BlockEntityTag.a1",
+                  "op": "replace"
+                },
+                {
+                  "source": "a2",
+                  "target": "BlockEntityTag.a2",
+                  "op": "replace"
+                },
+                {
+                  "source": "a3",
+                  "target": "BlockEntityTag.a3",
+                  "op": "replace"
+                },
+                {
+                  "source": "font",
+                  "target": "BlockEntityTag.font",
+                  "op": "replace"
+                },
+                {
+                  "source": "style",
+                  "target": "BlockEntityTag.style",
+                  "op": "replace"
+                },
+                {
+                  "source": "w",
+                  "target": "BlockEntityTag.w",
+                  "op": "replace"
+                },
+                {
+                  "source": "h",
+                  "target": "BlockEntityTag.h",
+                  "op": "replace"
+                },
+                {
+                  "source": "pct",
+                  "target": "BlockEntityTag.pct",
+                  "op": "replace"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

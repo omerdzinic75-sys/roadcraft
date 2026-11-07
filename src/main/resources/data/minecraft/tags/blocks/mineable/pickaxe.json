@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "roadcraft:asphalt",
+    "roadcraft:asphalt_slab",
+    "roadcraft:road_line_white",
+    "roadcraft:road_line_yellow",
+    "roadcraft:road_crosswalk",
+    "roadcraft:concrete_barrier",
+    "roadcraft:sign_pole",
+    "roadcraft:road_sign",
+    "roadcraft:traffic_light",
+    "roadcraft:gas_pump",
+    "roadcraft:gas_canopy"
+  ]
+}

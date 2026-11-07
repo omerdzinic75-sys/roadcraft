@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="roadcraft"
+version="${file.jarVersion}"
+displayName="RoadCraft"
+description='''
+Roads, road markings, traffic lights, concrete barriers, a gas station
+(pump, canopy, fuel cans) and fully editable city / highway signs with
+arrows, custom text, fonts and size.
+'''
+
+[[dependencies.roadcraft]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.roadcraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
