@@ -1,0 +1,20 @@
+{
+  "itemGroup.roadcraft": "RoadCraft",
+  "block.roadcraft.asphalt": "Asphalt",
+  "block.roadcraft.asphalt_slab": "Asphalt Slab",
+  "block.roadcraft.road_line_white": "Asphalt with White Line",
+  "block.roadcraft.road_line_yellow": "Asphalt with Double Yellow Line",
+  "block.roadcraft.road_crosswalk": "Crosswalk",
+  "block.roadcraft.concrete_barrier": "Concrete Barrier",
+  "block.roadcraft.sign_pole": "Sign Pole",
+  "block.roadcraft.road_sign": "Road Sign",
+  "block.roadcraft.traffic_light": "Traffic Light",
+  "block.roadcraft.gas_pump": "Gas Pump",
+  "block.roadcraft.gas_canopy": "Gas Station Canopy",
+  "item.roadcraft.fuel_can": "Fuel Can (empty)",
+  "item.roadcraft.fuel_can_full": "Fuel Can (full)",
+  "screen.roadcraft.edit_sign": "Edit Sign",
+  "message.roadcraft.pump_hint": "Hold an empty Fuel Can and pay 1 emerald",
+  "message.roadcraft.need_emerald": "You need 1 emerald",
+  "message.roadcraft.can_full": "This Fuel Can is already full"
+}

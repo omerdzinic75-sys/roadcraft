@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "roadcraft:block/asphalt_slab"
+    },
+    "type=top": {
+      "model": "roadcraft:block/asphalt_slab_top"
+    },
+    "type=double": {
+      "model": "roadcraft:block/asphalt"
+    }
+  }
+}

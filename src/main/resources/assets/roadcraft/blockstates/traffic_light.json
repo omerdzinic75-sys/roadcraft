@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=north,light=red": {
+      "model": "roadcraft:block/traffic_light_red",
+      "y": 0
+    },
+    "facing=north,light=yellow": {
+      "model": "roadcraft:block/traffic_light_yellow",
+      "y": 0
+    },
+    "facing=north,light=green": {
+      "model": "roadcraft:block/traffic_light_green",
+      "y": 0
+    },
+    "facing=east,light=red": {
+      "model": "roadcraft:block/traffic_light_red",
+      "y": 90
+    },
+    "facing=east,light=yellow": {
+      "model": "roadcraft:block/traffic_light_yellow",
+      "y": 90
+    },
+    "facing=east,light=green": {
+      "model": "roadcraft:block/traffic_light_green",
+      "y": 90
+    },
+    "facing=south,light=red": {
+      "model": "roadcraft:block/traffic_light_red",
+      "y": 180
+    },
+    "facing=south,light=yellow": {
+      "model": "roadcraft:block/traffic_light_yellow",
+      "y": 180
+    },
+    "facing=south,light=green": {
+      "model": "roadcraft:block/traffic_light_green",
+      "y": 180
+    },
+    "facing=west,light=red": {
+      "model": "roadcraft:block/traffic_light_red",
+      "y": 270
+    },
+    "facing=west,light=yellow": {
+      "model": "roadcraft:block/traffic_light_yellow",
+      "y": 270
+    },
+    "facing=west,light=green": {
+      "model": "roadcraft:block/traffic_light_green",
+      "y": 270
+    }
+  }
+}

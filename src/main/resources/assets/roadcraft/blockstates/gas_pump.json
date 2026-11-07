@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "roadcraft:block/gas_pump",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "roadcraft:block/gas_pump",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "roadcraft:block/gas_pump",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "roadcraft:block/gas_pump",
+      "y": 270
+    }
+  }
+}
